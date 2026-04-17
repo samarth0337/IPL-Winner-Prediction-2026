@@ -98,7 +98,7 @@ The project includes a final bar chart showing:
 
 ## 👨‍💻 Author
 
-**Samarth Dasare**
+**Samarthh Dasare**
 
 ---
 
